@@ -66,7 +66,7 @@ class ParamaterValue {
   /// Parameter Element.
   ///
   /// パラメーターエレメント。
-  final ParameterElement element;
+  final FormalParameterElement element;
 
   /// Default value of the parameter.
   ///
